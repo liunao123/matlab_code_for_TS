@@ -1,4 +1,4 @@
-function [x,y,z] = read_kml(fileName)
+function [x,y,z] = read_kml(fileName) 
 % READ_KML Reads in (x,y,z) from a GoogleEarth kml file.
 %
 %  I have tried to make this code as robust as possible, but it may crash
